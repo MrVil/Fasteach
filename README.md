@@ -64,5 +64,14 @@ grunt serve
 grunt test
 ```
 
+**Electron**
+
+*Launch the executable application preview*
+
+```
+grunt electron
+```
+
+
 Project Structure
 -----------------
