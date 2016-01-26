@@ -1,0 +1,25 @@
+{
+  "name": "fasteach",
+  "version": "1.0.0",
+  "description": "A way to easily create elearning content !",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrVil/Fasteach.git"
+  },
+  "keywords": [
+    "elearning"
+  ],
+  "author": "GUYL Bastien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrVil/Fasteach/issues"
+  },
+  "homepage": "https://github.com/MrVil/Fasteach#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
